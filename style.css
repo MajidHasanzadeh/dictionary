@@ -74,6 +74,8 @@ main {
 @media (max-width: 1000px) {
   header {
     width: 100vh;
+    flex-direction: column;
+    padding-bottom: 20px;
   }
   .header-left {
     font-size: 30px;
